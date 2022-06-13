@@ -1,6 +1,8 @@
 import environment from './environment';
 import 'bootstrap';
 import '@popperjs/core';
+// cli-bundler has some limitation on stubbing "process".
+// https://aurelia.io/docs/cli/cli-bundler/dependency-management#auto-tracing
 import process from 'process';
 window.process = process;
 

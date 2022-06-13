@@ -1,5 +1,7 @@
 # `x`
 
+Aurelia v1 example with bootstrap v5.
+
 This project is bootstrapped by [aurelia-cli](https://github.com/aurelia/cli).
 
 For more information, go to https://aurelia.io/docs/cli/cli-bundler
